@@ -5,6 +5,9 @@ Today we built a wrapper class around URLSession. The NetworkHelper wrapper clas
 #### NetworkHelper class
 [NetworkHelper class](https://github.com/alexpaul/NetworkHelper/blob/master/NetworkHelper/NetworkHelper.swift)   
 
+#### Error Handling our NetworkHelper class
+[AppError enum](https://github.com/alexpaul/NetworkHelper/blob/master/NetworkHelper/AppError.swift)   
+
 #### Using the Apple Search API and making use of the NetworkHelper to GET podcasts   
 [PodcastAPIClient](https://github.com/alexpaul/NetworkHelper/blob/master/NetworkHelper/PodcastAPIClient.swift) 
 
